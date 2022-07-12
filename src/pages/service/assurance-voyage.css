@@ -1,0 +1,184 @@
+.banner {
+    background-color: rgba(76, 116, 168, 0.8);
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #ffffff;
+}
+
+.form-container {
+    background-image: url("../../images/quote_bg_texture.webp");
+    background-color: #e5eaf1;
+}
+
+.form-style {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.custom-p {
+    background: transparent;
+    border-bottom: 2px solid #003478;
+    color: #003478;
+}
+
+.custom-p {
+    border-bottom: 2px solid #e5e5e5;
+}
+.custom-p:after {
+    content: "";
+    display: block;
+    border-bottom: 2px solid #003478;
+    margin-bottom: -2px;
+    max-width: 300px;
+}
+
+select option {
+    color: #5a5a5a !important;
+    font-size: 16px;
+}
+
+.form-group {
+    color: #5a5a5a !important;
+    font-size: 16px;
+}
+
+input {
+    border-style: none;
+}
+
+@media (min-width: 991px) {
+    .vieAssurance {
+        border-radius: 5px 5px 5px 5px;
+        box-shadow: 0px 20px 30px 0px rgb(0 0 0 / 7%);
+        margin-top: -45px;
+        margin-bottom: 38px;
+    }
+}
+
+.vieAssurance {
+    height: 393px;
+    width: 475px;
+}
+
+@media (max-width: 575px) {
+    .vieAssurance {
+        height: 200px;
+        width: 475px;
+    }
+}
+
+.auto-assurance-bloc {
+    background-color: #f1f6fb;
+    background-image: url("../../images/offer_bg.png");
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 0px 20px 30px 0px rgb(25 54 86 / 3%);
+    transition: 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 50px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.section-title {
+    color: #003478;
+    margin: 0px 0px 17px 0px;
+    font-size: 30px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 38px;
+    letter-spacing: -0.9px;
+}
+
+.section-p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #5a5a5a;
+}
+
+.btn-primary-comparer {
+    font-family: "Open Sans", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #003478;
+    padding: 18px 27px 18px 27px;
+}
+
+.btn-primary-comparer:hover {
+    font-family: "Open Sans", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #003478;
+    padding: 18px 27px 18px 27px;
+}
+
+@media (max-width: 991px) {
+    .vieAssurance {
+        display: block;
+        margin-top: 15px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 5px 5px 5px 5px;
+        box-shadow: 0px 20px 30px 0px rgb(0 0 0 / 7%);
+    }
+}
+
+@media (max-width: 576px) {
+    .section-style {
+        margin-left: 10%;
+    }
+}
+
+.section-title-auto-left {
+    color: #003478;
+    margin: 0px 32px 0px 0px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 44px;
+    letter-spacing: -1.08px;
+}
+
+.section-title-auto-right {
+    color: #003478;
+    font-family: "Rubik", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.section-auto {
+    margin-left: 94px;
+}
+
+.vr-auto {
+    display: inline-block;
+    width: 1px;
+    min-height: 1em;
+    color: #003478;
+    background-color: #003478;
+    border: solid 2px;
+    height: 70px;
+}
+
+.h5-style {
+    font-size: 16px;
+    line-height: 24px;
+    color: #003478;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: revert;
+    font-weight: 800;
+}
+
+.ml-15 {
+    margin-left: 15%;
+}

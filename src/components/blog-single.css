@@ -1,0 +1,15 @@
+.entry-title{
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 44px;
+    letter-spacing: -1.08px;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #003478;
+}
+
+.p-blog{
+    color: #5a5a5a;
+    font-size: 16px;
+}

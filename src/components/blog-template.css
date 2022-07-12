@@ -1,0 +1,48 @@
+.card-title-blog{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 44px;
+    letter-spacing: -1.08px;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #003478;
+}
+
+
+.btn-primary-blog{
+    background-color: #003478;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    background: #003478;
+    padding: 0 30px;
+    line-height: 52px;
+}
+
+.btn-primary-blog:hover{
+    background-color: #003478;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    background: #003478;
+    padding: 0 30px;
+    line-height: 52px;
+}
+
+.card-text-blog{
+    font-weight: 400 !important;
+    color: #5a5a5a;
+}
+
+.cut-text { 
+    text-overflow: ellipsis;
+    overflow: hidden; 
+    width: 160px; 
+    height: 1.2em; 
+    white-space: nowrap;
+  }
+
+  
